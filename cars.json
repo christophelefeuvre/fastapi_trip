@@ -1,0 +1,23 @@
+[
+    {
+        "size": "s",
+        "fuel": "electric",
+        "doors": 2,
+        "transmission": "auto",
+        "id": 1
+    },
+    {
+        "size": "m",
+        "fuel": "electric",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 2
+    },
+    {
+        "size": "l",
+        "fuel": "electric",
+        "doors": 6,
+        "transmission": "manual",
+        "id": 3
+    }
+]
